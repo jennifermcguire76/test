@@ -1,6 +1,6 @@
 const og = require('open-graph');
 
-// const url = 'http://github.com/samholmes/node-open-graph/raw/master/test.html';
+// const url = ' https://gifx.xyz/graphql';
 
 
 export default function handler(req, res) {
